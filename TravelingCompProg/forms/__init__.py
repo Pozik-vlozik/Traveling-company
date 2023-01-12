@@ -1,0 +1,5 @@
+from MainFormModule import MainFormClass
+from DataChangeFormModule import DataChangeFormClass
+from ToursFormModule import ToursFormClass
+from NewTourModule import NewTourClass
+from PriceListsModule import PriceListsFormClass

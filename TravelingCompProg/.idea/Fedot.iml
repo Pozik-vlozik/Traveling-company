@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/control_classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/forms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/forms/DataChangeFormModule" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/forms/MainFormModule" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/forms/ChangePointsModule" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/forms/NewTourModule" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/forms/PriceListsModule" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/forms/ToursFormModule" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/forms/TourOrderModule" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8 (Fedot)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

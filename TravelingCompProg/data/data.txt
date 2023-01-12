@@ -1,0 +1,6 @@
+INSERT INTO price_list (start_date, finish_date, price) VALUES ('21-01-2002', '22-01-2002', 0);
+INSERT INTO transport_types (type_name) VALUES ('Поезд'), ('Самолет'), ('Автобус'), ('Пешком');
+INSERT INTO tour_types (type_name) VALUES ('Отыдх на море'), ('Шор-тур'), ('Горные лыжи');
+INSERT INTO points (point_name) VALUES ('Польша'), ('Слуцк'), ('Варшава'), ('Магадан'), ('Днепропетровск');
+INSERT INTO hotels (point_id, name, stars) VALUES (1, 'Запорожье', 1), (2, 'Порожье', 2), (3, 'Три мушкетера', 3), (4, 'Золотая чаша', 4), (5, 'Лагуна', 5);
+
